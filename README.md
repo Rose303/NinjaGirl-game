@@ -10,3 +10,4 @@ to test the game:
   - to throw a single kunai at a time press n
   - to use laser press L
     
+![ninja game](https://github.com/Rose303/NinjaGirl-game/assets/44304863/31f11382-a87a-4cce-87f3-ae5c97212106)
