@@ -9,7 +9,8 @@ to test the game:
   - to throw multiple kunai press m
   - to throw a single kunai at a time press n
   - to use laser press L
-    
+    [Video_2023_10_02-3.webm](https://github.com/Rose303/NinjaGirl-game/assets/44304863/c2aa84d4-d7c3-45ca-bfa8-a66a12eb6ade)
+
 ![ninja game](https://github.com/Rose303/NinjaGirl-game/assets/44304863/31f11382-a87a-4cce-87f3-ae5c97212106)
 ![n](https://github.com/Rose303/NinjaGirl-game/assets/44304863/3c0d0465-6687-4313-bb66-2edb62c48952)
 ![Screenshot_2023_10_02-4](https://github.com/Rose303/NinjaGirl-game/assets/44304863/70be2f3e-753a-4144-aed1-e14c86e7d7f3)
