@@ -1,12 +1,12 @@
 # NinjaGirl-game
 
 c# game using system windows form and drawing.
-This is a simple game was made for multimedia course.
+This is a simple game made for a multimedia course.
 
-to test tha game:
+to test the game:
   - move with arrows
   - jump with space
-  - to throw multipule kunai press m
-  - to throw single kunai at a time press n
+  - to throw multiple kunai press m
+  - to throw a single kunai at a time press n
   - to use laser press L
     
